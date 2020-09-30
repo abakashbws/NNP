@@ -1,4 +1,4 @@
-# nnp
+#NPP
 Implemented a neural network system comprising of variable plus fixed inputs, weights and biases assigned to it.
 Created a dot product matrix while transversing the weight matrix.
 Coded a layer.
